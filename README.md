@@ -1,9 +1,5 @@
 # Vélos Libre Service - Projet de Conception Orientée Objet (COO) en Java
 
-**Binôme :**
-- Yasser El Fakhouri
-- Mohamed Bouziane
-
 Ce projet de simulation vise à modéliser un système de location de vélos en libre-service, inspiré par des services tels que Vélib' ou V'Lille. La simulation comprend la gestion des stations de location, des vélos, d'un centre de contrôle, et intègre des fonctionnalités telles que la redistribution des vélos, les réparations, et la gestion des vols.
 
 ## Fonctionnalités
