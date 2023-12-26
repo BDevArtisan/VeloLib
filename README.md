@@ -63,7 +63,6 @@ Le programme est conçu de manière modulaire pour faciliter l'extension avec de
 
 ## Comment Utiliser le Programme
 
-- **Importation** : git clone git@gitlab-etu.fil.univ-lille.fr:mohamed.bouziane.etu/elfakhouri_bouziane_projetcoo.git
 - **Compilation et création du Jar** : make
 - **Execution** : make run
 - **Création de la doc** : make docs
